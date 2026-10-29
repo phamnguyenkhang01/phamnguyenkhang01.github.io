@@ -1,5 +1,9 @@
 title: Evangelization in Rural Areas
 description: Reflections and news on Catholic mission in the highlands and rural communities.
+url: https://phamnguyenkhang01.github.io
+# Google Search Console: paste your verification code below and remove the #
+# webmaster_verifications:
+#   google: YOUR_CODE_HERE
 permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-seo-tag

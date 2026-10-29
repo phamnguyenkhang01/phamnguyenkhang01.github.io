@@ -1,13 +1,15 @@
 ---
 layout: default
+hero: true
 ---
-<p class="lead">{{ site.description }}</p>
-<ul class="posts">
+<h2 class="section-title">Latest posts</h2>
+<div class="cards">
   {% for post in site.posts %}
-  <li>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y' }}</time>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
-  </li>
+  <a class="card" href="{{ post.url | relative_url }}">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %-d, %Y' }}</time>
+    <h3>{{ post.title }}</h3>
+    <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+    <span class="read-more">Read more &rarr;</span>
+  </a>
   {% endfor %}
-</ul>
+</div>

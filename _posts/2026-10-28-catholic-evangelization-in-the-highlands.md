@@ -12,4 +12,4 @@ What can we learn from these stories? God desires our cooperation. To cooperate 
 
 It is like the story of the miraculous catch of fish, when Jesus told St. Peter to cast his nets. Peter did as the Lord commanded, and he caught an enormous number of fish. Peter would also go on to bring many people to Christ, with 3,000 people responding to a single sermon. God continues to work through His Church today. He is still present with the faithful in the boats of their daily lives, calling them to cast their nets.
 
-*Lord, keep us in Your boat. Help us to continue being Your fishers of men, according to the desire of Your Father's heart. Amen.*
+> *Lord, keep us in Your boat. Help us to continue being Your fishers of men, according to the desire of Your Father's heart. Amen.*

@@ -4,15 +4,53 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23b7791f' d='M10 2h4v6h6v4h-6v10h-4V12H4V8h6z'/></svg>">
 </head>
 <body>
-  <header>
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  <nav class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <svg class="brand-cross" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 2h4v6h6v4h-6v10h-4V12H4V8h6z"/></svg>
+        <span>{{ site.title }}</span>
+      </a>
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero{% unless page.hero %} hero-small{% endunless %}">
+    <div class="wrap hero-text">
+      {% if page.hero %}
+        <p class="eyebrow">Mission &middot; Faith &middot; Community</p>
+        <h1>{{ site.title }}</h1>
+        <p class="tagline">{{ site.description }}</p>
+      {% else %}
+        <h1>{{ page.title }}</h1>
+        {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time>{% endif %}
+      {% endif %}
+    </div>
+    <svg class="mountains" viewBox="0 0 1440 220" preserveAspectRatio="none" aria-hidden="true">
+      <path class="m3" d="M0 120 L160 50 L300 110 L470 30 L640 105 L820 40 L1000 115 L1180 45 L1340 100 L1440 70 V220 H0Z"/>
+      <path class="m2" d="M0 160 L200 90 L380 150 L560 80 L760 155 L950 95 L1130 160 L1300 100 L1440 140 V220 H0Z"/>
+      <path class="m1" d="M0 195 L240 150 L480 190 L720 145 L960 192 L1200 150 L1440 185 V220 H0Z"/>
+    </svg>
   </header>
-  <main>
+
+  <main class="wrap">
     {{ content }}
   </main>
-  <footer>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</footer>
+
+  <footer>
+    <div class="wrap">
+      <svg class="brand-cross" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 2h4v6h6v4h-6v10h-4V12H4V8h6z"/></svg>
+      <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
+    </div>
+  </footer>
 </body>
 </html>
