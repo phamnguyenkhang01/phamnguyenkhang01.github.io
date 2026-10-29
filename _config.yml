@@ -1,0 +1,6 @@
+title: Evangelization in Rural Areas
+description: Reflections and news on Catholic mission in the highlands and rural communities.
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
