@@ -105,3 +105,11 @@ Người Bahnar cũng có vai trò của mình: họ mở cửa nhà, chia sẻ 
 Hơn một thế kỷ rưỡi đã trôi qua. Ngày 28 tháng 12 năm 1853 vẫn còn được lưu lại trong tư liệu Giáo phận Kon Tum, như một dấu mốc nhỏ nhưng quan trọng trong hành trình Tin Mừng bén rễ trên vùng đất Tây Nguyên.
 
 Và trong câu chuyện ấy, tên ông Hmur nhắc chúng ta nhớ rằng: lịch sử truyền giáo không chỉ là lịch sử của những người mang Tin Mừng đến, mà còn là lịch sử của những người đã mở lòng đón nhận và làm cho đức tin ấy trở thành một phần đời sống của chính cộng đồng mình.
+
+---
+
+## Nguồn tư liệu / Sources
+
+1. Giáo phận Kon Tum – *Dân Làng Hồ*, Chương XIV: Tường thuật việc ông Hmur lãnh nhận phép Rửa ngày 28/12/1853.
+2. Giáo phận Kon Tum – *Dân Làng Hồ*, Chương XVII: Kể về đời sống của những Kitô hữu mới tại Kon Kơ Xâm và gia đình ông Hmur.
+3. Hội đồng Giám mục Việt Nam – *Đôi nét văn hóa, văn học Công giáo Tây Nguyên*: Bối cảnh hình thành các trung tâm truyền giáo và việc học tiếng Bahnar.
