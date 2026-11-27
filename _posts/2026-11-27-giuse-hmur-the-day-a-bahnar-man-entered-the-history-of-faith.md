@@ -4,6 +4,11 @@ title: Giuse Hmur – The Day a Bahnar Man Entered the History of Faith
 ---
 *Kon Kơ Xâm, Vietnam's Central Highlands – December 28, 1853*
 
+<figure>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/BahnarRong.jpg" alt="A Bahnar rong communal house in Kon Kotu, Vietnam's Central Highlands" loading="lazy">
+  <figcaption>A Bahnar rong, or communal house, in Kon Kotu. This 2000 photograph offers a view of Bahnar community life in the Central Highlands; it does not depict Kon Kơ Xâm in 1853. Photo: <a href="https://commons.wikimedia.org/wiki/File:BahnarRong.jpg">Doron / Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</figcaption>
+</figure>
+
 In Kon Kơ Xâm, in the heart of Bahnar country, one date remains significant in the history of Catholic evangelization in Vietnam's Central Highlands: December 28, 1853. On that day, Hmur, the village head of Kon Kơ Xâm, received the Sacrament of Baptism from Father Jean-Pierre Combes. He is remembered as the first Bahnar Christian of the Kon Kơ Xâm mission community.
 
 Yet Hmur's story is about more than the day he was baptized. It is also the story of a man facing a decision of faith, between the traditions that had shaped his community for generations and a new path he chose to follow.
@@ -41,6 +46,11 @@ Dourisboure also recounts that Hmur's wife, Jiêng, and several people close to 
 These accounts suggest that the event of 1853 was not merely a personal milestone. It became part of the story of the formation of the early Christian community at Kon Kơ Xâm.
 
 ## A Milestone in the History of Bahnar Christianity
+
+<figure>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kontum_wooden_catholic_church.jpg" alt="The wooden Catholic church in Kon Tum" loading="lazy">
+  <figcaption>The wooden Catholic church in Kon Tum, built in the early twentieth century. It is a later landmark in the region, not the church where Hmur was baptized. Photo: <a href="https://commons.wikimedia.org/wiki/File:Kontum_wooden_catholic_church.jpg">Renaud d'Avout d'Auerstaedt / Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</figcaption>
+</figure>
 
 When looking back at the history of evangelization in Kon Tum, attention often turns to the missionaries who traveled to the highlands, learned local languages, and prepared catechisms in Bahnar. But Hmur's story reminds us that this history was not shaped by those who came from distant lands alone.
 
